@@ -1,0 +1,2 @@
+# Print-the-string-by-ignoring-alternate-occurrences-of-any-character
+Given a string of both uppercase and lowercase alphabets, the task is to print the string with alternate occurrences of any character dropped(including space and consider upper and lowercase as same).  Examples:  Input : It is a long day Dear. Output : It sa longdy ear. Print first I and then ignore next i. Similarly print first space then  ignore next space.
